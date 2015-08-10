@@ -1,0 +1,3 @@
+# Lending my car
+
+My brother wanted to borrow my car. For a weekend trip with his friends. His Corolla is a bit small compared to my Galant STW. So obviously I had to check my car was good for the trip. I finally had to fix my windscreen washer motor wich broke in the winter. Haven't had much use for it. I also removed a bunch of previous owners custom wire installs. My brother took the car and called back. No working indicators. About 30 minutes later I realised I was a bit too eager with the wire removal stuff.

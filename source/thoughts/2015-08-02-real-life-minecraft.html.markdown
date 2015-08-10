@@ -1,0 +1,3 @@
+# Real life Minecraft
+
+I did some real life Minecrafting today. Moved some more soil today. Maybe around 10 cubic meters. It's nothing like Minecraf. I've got an iron shovel and all but still it takes very long time to get the wheelbarrow full. And it gets sweaty pretty fast. No fast way to get 64 pieces of soil to inventory and then stack them in another place. But that is real life. There's about 6 cubic meters of soil left to move. But first I'll have to even the moved soil so I'll know better where to move the rest.

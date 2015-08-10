@@ -1,0 +1,3 @@
+# The joy of doing nothing
+
+Yesterday was a day I did nothing. For the most part of the day at least. It started in the morning and ended in the late afternoon. Oh the joy of doing nothing. Just laying around. Fiddling with my phone. Listening to the kids playing. Wife laying beside me an reading a book. Doing nothing. But as I've done something for a very long time it's hard for me to do nothing. So late in the afternoon I finally had to get up and do something. So I did a small maintenance to my car.

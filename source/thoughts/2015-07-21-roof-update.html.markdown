@@ -1,0 +1,3 @@
+# Roof update
+
+Our roof is painted. It took a while but it is finally painted. Our chimney isn't finished yet. I had to change my roof schedule because of the weather forecasts and our planned small summer trip. And now I'm having three days off from house repair and maintenance with my wife and dogs. Our kids are having their summer trip with my mother, sister and sisters son. So we rented a cabing, packed our car and drove away from home. It's good for the mind to get away from home every now and then. Get some real rest.

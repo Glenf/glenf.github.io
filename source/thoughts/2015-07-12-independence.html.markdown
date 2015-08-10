@@ -1,0 +1,3 @@
+# Independence
+
+I'm a concerned dad. My oldest is seven years old. She can do things with her own. Without me looking after her. She is a bit shy which I think is a good thing. I don't have to be that concerned. But still every time she goes to her friend I'm a bit worried about the things that might happen. I think it's just a part of parenthood and me learning things. I might give her my old iPhone so I could track her. But no! I should let her have independece in her own little world. Without tracking.

@@ -1,0 +1,3 @@
+# Strawberries
+
+We do like strawberries. My wife likes them fresh. I don't care that much. Frozen or fresh. As long as they're domestic. I had some strawberries yesterday. Fresh but from Sweden. Those were quite good but not as sweet as I'd like them to be. It must be the travel part that spoils them. Or some other part of the supply chain. I bet that those swedish strawberries would taste better in Sweden than here. It's the same with frosen Polish strawberries. When comparing to domestic self-frozen strawberries the taste isn't as sweet. But still I'd eat them.

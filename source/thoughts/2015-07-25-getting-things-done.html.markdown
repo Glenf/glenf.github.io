@@ -1,0 +1,3 @@
+# Getting things done
+
+I believe that by doing lists you can accomplish more things that you might know. And it suprises even me every nown and then. But there's a catch in those lists. You have to put things you know you can do. You have to have the resources or a possibility for those recources. Like time and money. You also have to arrange the tasks so that you know what's important and what's nice to have. And the external dependencies (like weather) have to be acknowledged. After that it's just doing. And checking things off from the list.
