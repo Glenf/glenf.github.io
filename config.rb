@@ -34,22 +34,25 @@ end
 
 set :casper, {
   blog: {
-      url: 'http://glenf.github.io',
+    url: 'http://glenf.github.io',
     name: 'Mainly satisfied',
     description: 'Thoughts about web and life',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: nil # Optional
+    logo: nil #:'https://farm8.staticflickr.com/7601/17159504896_0adfaea7ec_k.jpg' # Optional
   },
   author: {
     name: 'Tommi Pääkkö',
     bio: 'A front end developer from northern Finland.', # Optional
-    location: nil, # Optional
+    location: 'Oulu, Finland', # Optional
     website: nil, # Optional
     gravatar_email: 'tommi@nerd.fi' # Optional
   },
   navigation: {
-    "Home" => "/"
+    "Home" => "/",
+    "Github" => "https://github.com/Glenf",
+    "Twitter" => "https://twitter.com/TommiPaakko",
+    "Flickr" => "https://www.flickr.com/photos/tommipaakko/"
   }
 }
 
