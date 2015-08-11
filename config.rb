@@ -11,7 +11,7 @@ activate :blog do |blog|
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
   blog.sources = "{category}/{year}-{month}-{day}-{title}.html"
-  blog.taglink = "tag/{tag}.html"
+  #blog.taglink = "tag/{tag}.html"
   
   blog.permalink = "{category}/{title}.html"
 
@@ -61,7 +61,7 @@ ignore '/partials/*'
 ready do
   blog.tags.each do |tag, articles|
     proxy "/tag/#{tag.downcase.parameterize}/feed.xml", '/feed.xml', layout: false do
-      @tagname = tag
+      #@tagname = tag
       @articles = articles[0..5]
     end
   end
@@ -152,7 +152,7 @@ configure :build do
 end
 
 activate :deploy do |deploy|
-    deploy.build_before = true
+    #deploy.build_before = true
     deploy.method = :git
     deploy.branch = 'master'
 end
