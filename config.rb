@@ -34,7 +34,7 @@ end
 
 set :casper, {
   blog: {
-    url: 'http://www.example.com',
+      url: 'http://glenf.github.io',
     name: 'Mainly satisfied',
     description: 'Thoughts about web and life',
     date_format: '%d %B %Y',
@@ -43,7 +43,7 @@ set :casper, {
   },
   author: {
     name: 'Tommi Pääkkö',
-    bio: nil, # Optional
+    bio: 'A front end developer from northern Finland.', # Optional
     location: nil, # Optional
     website: nil, # Optional
     gravatar_email: 'tommi@nerd.fi' # Optional
