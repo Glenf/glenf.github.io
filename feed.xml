@@ -5,10 +5,22 @@
   <id>http://glenf.github.io</id>
   <link href="http://glenf.github.io"/>
   <link href="http://glenf.github.io/feed.xml" rel="self"/>
-  <updated>2015-08-10T03:00:00+03:00</updated>
+  <updated>2015-08-11T03:00:00+03:00</updated>
   <author>
     <name>Tommi Pääkkö</name>
   </author>
+  <entry>
+    <title>Test drive</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/test-drive/"/>
+    <id>http://glenf.github.io/thoughts/test-drive/</id>
+    <published>2015-08-11T03:00:00+03:00</published>
+    <updated>2015-08-11T15:40:31+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">Yesterday I had a long test drive with the lawnmover I&amp;rsquo;ve been repairing. When it came to me the gears didn&amp;rsquo;t work and it didn&amp;rsquo;t run that great. A little bit of fixing and a few new parts and it was running. Sort of. I still need to fix the carburettor and the steering but it cuts lawn. And the gears work. It is loud but simple muffler replacement should quiet things down. Considering that this lawnmover is from the 80&amp;rsquo;s it&amp;rsquo;s in a pretty good shape. Whith these fixes maybe another five years more to ride.
+</summary>
+  </entry>
   <entry>
     <title>Food</title>
     <link rel="alternate" href="http://glenf.github.io/thoughts/food/"/>
@@ -67,18 +79,6 @@
       <name>Tommi Pääkkö</name>
     </author>
     <summary type="html">Today I came home from my first work day after summer vacation. Had some dinner and wen tfor some errands in hardware store. When I came back my daughter sais she&amp;rsquo;s going for her football practise with her bike. And I&amp;rsquo;d be running beside her. This is something we&amp;rsquo;ve discussed but never done. So there was really no other option for me. I had promised this so I had to keep my promise. So I did. I left my girl at her practise and ran back home. 4 kilometers of pain and last 1,9 kilometers pure joy. Loved it. 
-</summary>
-  </entry>
-  <entry>
-    <title>Real life Minecraft</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/real-life-minecraft/"/>
-    <id>http://glenf.github.io/thoughts/real-life-minecraft/</id>
-    <published>2015-08-02T03:00:00+03:00</published>
-    <updated>2015-08-11T10:16:11+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">I did some real life Minecrafting today. Moved some more soil today. Maybe around 10 cubic meters. It&amp;rsquo;s nothing like Minecraf. I&amp;rsquo;ve got an iron shovel and all but still it takes very long time to get the wheelbarrow full. And it gets sweaty pretty fast. No fast way to get 64 pieces of soil to inventory and then stack them in another place. But that is real life. There&amp;rsquo;s about 6 cubic meters of soil left to move. But first I&amp;rsquo;ll have to even the moved soil so I&amp;rsquo;ll know better where to move the rest.
 </summary>
   </entry>
 </feed>
