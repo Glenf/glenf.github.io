@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mainly satisfied</title>
+  <subtitle>Thoughts about web and life</subtitle>
+  <id>http://glenf.github.io</id>
+  <link href="http://glenf.github.io"/>
+  <link href="http://glenf.github.io/feed.xml" rel="self"/>
+  <updated>2015-08-10T03:00:00+03:00</updated>
+  <author>
+    <name>Tommi Pääkkö</name>
+  </author>
+  <entry>
+    <title>Food</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/food/"/>
+    <id>http://glenf.github.io/thoughts/food/</id>
+    <published>2015-08-10T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">On my summer vacation I allowed myself to eat what I like. I didn&amp;rsquo;t get all crazy because I had to consider my kids and wife also. So no &amp;ldquo;icecream all day&amp;rdquo;. I just didn&amp;rsquo;t pay that much attention to what I was eating. Now that I started working again it was time to pay attention to my eating habits and food. Mainly because I don&amp;rsquo;t do my meals at home. I noticed once again that I eat too little. I don&amp;rsquo;t starve but my calorie count should be higher. Again I&amp;rsquo;ll have to learn how to eat enough.
+</summary>
+  </entry>
+  <entry>
+    <title>Routine</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/routine/"/>
+    <id>http://glenf.github.io/thoughts/routine/</id>
+    <published>2015-08-09T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">My routine is broken. Not all my routines but my writing one. I started writing things down every day last month. It went fine because every day I had a time when I&amp;rsquo;d write. Usually at morning after breakfast. A few occasions I wrote at the evening before I went to bed but mostly the writing happened in the morning. Until I started my work again. Now after breakfast I leave for work. And at work I&amp;rsquo;ve not had the same kind of routine in writing that I had at home. It seems I&amp;rsquo;ll have to change my routine.  
+</summary>
+  </entry>
+  <entry>
+    <title>Work</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/work/"/>
+    <id>http://glenf.github.io/thoughts/work/</id>
+    <published>2015-08-07T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I started my work this week. Four weeks of vacation is over. And it&amp;rsquo;s time to do things that I get paid for. Mostly the same things I&amp;rsquo;d do anyways. Writing code, solving problems. I feel I&amp;rsquo;m privileged to work in industry where I can combine one of my hobbies and improve it. As a professional I get paid to solve my clients problems. As a hobbyist I can use cutting edge libraries to do specific stuff. I learn new stuff from my co-workers. And sometimes I can implement stuff I&amp;rsquo;ve fiddled with to a specific client problem. 
+</summary>
+  </entry>
+  <entry>
+    <title>Auchentoshan</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/auchentoshan/"/>
+    <id>http://glenf.github.io/thoughts/auchentoshan/</id>
+    <published>2015-08-05T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I enjoy whisky. Single malt Scotch whisky to be precise. But I do like any good or great whisky. And every now and then me and my friends order some from an e-commerce site. On one of those occasions I stumbled on Auchentoshan. I had never tasted or even heard of it. Valinch had very good ratings so I decided to try it. And it was a positive surprise form me. After that I think I&amp;rsquo;ve ordered atleast one Auchentoshan bottle a year. And it has never failed. This time it&amp;rsquo;s Three Wood. And I&amp;rsquo;m enjoying another Auchentoshan.
+</summary>
+  </entry>
+  <entry>
+    <title>Running</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/running/"/>
+    <id>http://glenf.github.io/thoughts/running/</id>
+    <published>2015-08-03T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">Today I came home from my first work day after summer vacation. Had some dinner and wen tfor some errands in hardware store. When I came back my daughter sais she&amp;rsquo;s going for her football practise with her bike. And I&amp;rsquo;d be running beside her. This is something we&amp;rsquo;ve discussed but never done. So there was really no other option for me. I had promised this so I had to keep my promise. So I did. I left my girl at her practise and ran back home. 4 kilometers of pain and last 1,9 kilometers pure joy. Loved it. 
+</summary>
+  </entry>
+  <entry>
+    <title>Real life Minecraft</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/real-life-minecraft/"/>
+    <id>http://glenf.github.io/thoughts/real-life-minecraft/</id>
+    <published>2015-08-02T03:00:00+03:00</published>
+    <updated>2015-08-11T10:16:11+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I did some real life Minecrafting today. Moved some more soil today. Maybe around 10 cubic meters. It&amp;rsquo;s nothing like Minecraf. I&amp;rsquo;ve got an iron shovel and all but still it takes very long time to get the wheelbarrow full. And it gets sweaty pretty fast. No fast way to get 64 pieces of soil to inventory and then stack them in another place. But that is real life. There&amp;rsquo;s about 6 cubic meters of soil left to move. But first I&amp;rsquo;ll have to even the moved soil so I&amp;rsquo;ll know better where to move the rest.
+</summary>
+  </entry>
+</feed>
