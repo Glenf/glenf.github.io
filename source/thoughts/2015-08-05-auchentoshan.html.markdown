@@ -1,3 +1,5 @@
-# Auchentoshan
+---
+title: Auchentoshan
+---
 
 I enjoy whisky. Single malt Scotch whisky to be precise. But I do like any good or great whisky. And every now and then me and my friends order some from an e-commerce site. On one of those occasions I stumbled on Auchentoshan. I had never tasted or even heard of it. Valinch had very good ratings so I decided to try it. And it was a positive surprise form me. After that I think I've ordered atleast one Auchentoshan bottle a year. And it has never failed. This time it's Three Wood. And I'm enjoying another Auchentoshan.

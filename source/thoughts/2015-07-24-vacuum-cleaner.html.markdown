@@ -1,3 +1,5 @@
-# Vacuum cleaner
+---
+title: Vacuum cleaner
+---
 
 We got a new vacuum cleaner last Chirstmas. Not as a Christmast present but as a replacement for our old one. Our old one was a working but it was loud and it didn't suck much. And as a vacuum cleaner that is an important thing. But this new one, our current, it does suck. And it's quiet. It keeps some noise but much less than the old one. One problem it has. It sucks so effectively that the dust bag has to be changed more often than with our previous one. But I can live with that. 

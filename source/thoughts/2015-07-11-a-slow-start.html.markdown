@@ -1,3 +1,5 @@
-# A slow start
+---
+title: A slow start
+---
 
 Some days just don't start. First it's morning and suddenly it's late afternoon. And you wonder where did the day go. It happened to me once again. Fired up PS4 an playde Minecraft with kids for about two hours. But not to worry, my wife had a day off from work. She forced me to do real things. So I had to put my work trousers on and get out. I got our chimney finished. Only the crown is missing. Also got our Renault yearly maintenance done. Changed oils and filters. Now she'll run for another year.
