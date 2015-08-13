@@ -5,10 +5,22 @@
   <id>http://glenf.github.io</id>
   <link href="http://glenf.github.io"/>
   <link href="http://glenf.github.io/feed.xml" rel="self"/>
-  <updated>2015-08-12T03:00:00+03:00</updated>
+  <updated>2015-08-13T03:00:00+03:00</updated>
   <author>
     <name>Tommi Pääkkö</name>
   </author>
+  <entry>
+    <title>The Flow</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/the-flow/"/>
+    <id>http://glenf.github.io/thoughts/the-flow/</id>
+    <published>2015-08-13T03:00:00+03:00</published>
+    <updated>2015-08-13T15:13:55+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I&amp;rsquo;m going to take a break after I do this. In a sec. Just a little moment and then I&amp;rsquo;ll go. And that moment stretches to an hour or two. And the posture is all wrong because of all the sitting in the edge of the seat. Spine all twisted. Shoulders collapsed. I know my muscles will ache later but I don&amp;rsquo;t really pay attention to my body. Or outside world. The Flow has me. Code comes easily. Making awesome things. Only thing breaking the Flow is calendar alarm reminding me to pick my kids up after work.
+</summary>
+  </entry>
   <entry>
     <title>School</title>
     <link rel="alternate" href="http://glenf.github.io/thoughts/school/"/>
@@ -67,18 +79,6 @@
       <name>Tommi Pääkkö</name>
     </author>
     <summary type="html">I started my work this week. Four weeks of vacation is over. And it&amp;rsquo;s time to do things that I get paid for. Mostly the same things I&amp;rsquo;d do anyways. Writing code, solving problems. I feel I&amp;rsquo;m privileged to work in industry where I can combine one of my hobbies and improve it. As a professional I get paid to solve my clients problems. As a hobbyist I can use cutting edge libraries to do specific stuff. I learn new stuff from my co-workers. And sometimes I can implement stuff I&amp;rsquo;ve fiddled with to a specific client problem. 
-</summary>
-  </entry>
-  <entry>
-    <title>Auchentoshan</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/auchentoshan/"/>
-    <id>http://glenf.github.io/thoughts/auchentoshan/</id>
-    <published>2015-08-05T03:00:00+03:00</published>
-    <updated>2015-08-11T10:16:11+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">I enjoy whisky. Single malt Scotch whisky to be precise. But I do like any good or great whisky. And every now and then me and my friends order some from an e-commerce site. On one of those occasions I stumbled on Auchentoshan. I had never tasted or even heard of it. Valinch had very good ratings so I decided to try it. And it was a positive surprise form me. After that I think I&amp;rsquo;ve ordered atleast one Auchentoshan bottle a year. And it has never failed. This time it&amp;rsquo;s Three Wood. And I&amp;rsquo;m enjoying another Auchentoshan.
 </summary>
   </entry>
 </feed>
