@@ -5,10 +5,58 @@
   <id>http://glenf.github.io</id>
   <link href="http://glenf.github.io"/>
   <link href="http://glenf.github.io/feed.xml" rel="self"/>
-  <updated>2015-08-30T03:00:00+03:00</updated>
+  <updated>2015-09-13T03:00:00+03:00</updated>
   <author>
     <name>Tommi Pääkkö</name>
   </author>
+  <entry>
+    <title>Mr. Robot</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/mr-robot/"/>
+    <id>http://glenf.github.io/thoughts/mr-robot/</id>
+    <published>2015-09-13T03:00:00+03:00</published>
+    <updated>2015-09-13T12:56:57+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">Every now and then comes a movie or a tv show that surprises me completely. The Matrix was one. Cloud Atlas was another. And now Mr. Robot. What gets me in these is that I&amp;rsquo;ve got some sort of expectation but I still don&amp;rsquo;t know what I&amp;rsquo;ll see or get. In Mr. Robot I really enjoy how real the hacking feels. I din&amp;rsquo;t see that coming. Especially after what Hollywood has done to it. Also this series makes me feel completely unsafe. It&amp;rsquo;s not because of the hackers but because of the companies I trust my data with. 
+</summary>
+  </entry>
+  <entry>
+    <title>Darkness</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/darkness/"/>
+    <id>http://glenf.github.io/thoughts/darkness/</id>
+    <published>2015-09-06T03:00:00+03:00</published>
+    <updated>2015-09-13T12:57:40+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I like driving cars. And I like darkness. So driving in the dark is one of the greatest things I can do. Yesterday I drove from Rovaniemi to Oulu with my family. We left in the evening after our kids had eaten their porridge. After about an hour the back seat had quieted down and my wife had also closed her eyes. I was all alone in the car. The radio played something in the background. In a way this moment was one of the best things that had happened to me in a while. And I enjoyed it.
+</summary>
+  </entry>
+  <entry>
+    <title>New laptop</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/new-laptop/"/>
+    <id>http://glenf.github.io/thoughts/new-laptop/</id>
+    <published>2015-09-03T03:00:00+03:00</published>
+    <updated>2015-09-04T10:18:10+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I started a new project. It&amp;rsquo;s the kind what has to be done on clients hardware. So I recieved a new MacBook Pro. 2015 with force touch and the new keyboard. I&amp;rsquo;ve been using it for couple of days now but there&amp;rsquo;s something in the feel that is off. The previous MBP keyboard wasn&amp;rsquo;t that good coding keyboard and this new one feels even more wrong. And the clickless click on the new trackpad. There is something weird about how it works. I might be over sensitive on this subject but sometimes things just don&amp;rsquo;t click. Pun intended.  
+</summary>
+  </entry>
+  <entry>
+    <title>Podcasting</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/podcasting/"/>
+    <id>http://glenf.github.io/thoughts/podcasting/</id>
+    <published>2015-09-01T03:00:00+03:00</published>
+    <updated>2015-09-04T10:18:23+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">I enjoy listening to podcasts. I think podcasts are like talk radio except the program is targeted better at your interests. But creating podcasts is even more enjoyable. I can share my ideas with other people. Usually it&amp;rsquo;s only with my co-host. But I do hope there are other people also who enjoy listening us talking. I really don&amp;rsquo;t care how many there are because I&amp;rsquo;m not doing this because of a large audience. The only thing I care is that maybe someone listening gets atleast some of the enthusiasm or spark I have for web development. 
+</summary>
+  </entry>
   <entry>
     <title>A goodbye</title>
     <link rel="alternate" href="http://glenf.github.io/thoughts/a-goodbye/"/>
@@ -30,54 +78,6 @@
       <name>Tommi Pääkkö</name>
     </author>
     <summary type="html">I have hard time to finish my projects. Not the work kind but the hobby and side project kind. I usually start them with enthusiasm but if the project takes a long time or gets lots of interruptions I tend to not finish it. Which is a bad thing. And I&amp;rsquo;ve started to pay attention to it. Which has made me feel guilty. And it doesn&amp;rsquo;t really help me finish the project. Recently I&amp;rsquo;ve started to finish my projects. I&amp;rsquo;t might have something to do with the fact that I don&amp;rsquo;t want to feel guilty or bad anymore.  
-</summary>
-  </entry>
-  <entry>
-    <title>High beams</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/high-beams/"/>
-    <id>http://glenf.github.io/thoughts/high-beams/</id>
-    <published>2015-08-26T03:00:00+03:00</published>
-    <updated>2015-08-30T21:32:46+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">Yesterday I started installing auxiliary high beam lights to my mothers car. She works at night time so the more light the better. She came to our house with the lights and stuff needed for the installation. And I realised that installing aux lights to a newer car isn&amp;rsquo;t as easy as install into an 15 years old car. The safety regulations have changed the way bumbers are installed. And there isn&amp;rsquo;t really that much room in the engine bay. I got the install started and wiring mostly done. But I&amp;rsquo;ll have to finish it in another afternoon.
-</summary>
-  </entry>
-  <entry>
-    <title>Old hardware</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/old-hardware/"/>
-    <id>http://glenf.github.io/thoughts/old-hardware/</id>
-    <published>2015-08-24T03:00:00+03:00</published>
-    <updated>2015-08-30T21:32:39+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">This weekend I finally reinstalled a custom ROM to our 2012 Nexus 7. The first Google Tablet. It&amp;rsquo;s not really that old but the mobile operating systems tend to make over two years old hardware obsolete. Apple has made an exception including iPhone 4s in the upcoming iOS 9 update. Also the next OS X still supports my late 2007 24&amp;quot; iMac. Luckily Nexus 7 is easy to modify so there&amp;rsquo;s the possibility to use custom build Android. With this custom ROM, Dirty Unicorns is the name, I managed to get some more life out of our tablet.
-</summary>
-  </entry>
-  <entry>
-    <title>August</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/august/"/>
-    <id>http://glenf.github.io/thoughts/august/</id>
-    <published>2015-08-23T03:00:00+03:00</published>
-    <updated>2015-08-30T21:32:32+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">I like August. The summer is almost over and fall is coming. It gets dark but it&amp;rsquo;s still warm. You can see the stars without getting cold. It&amp;rsquo;s like everything is preparing for the winter but still enjoying every last warm day the summer has to offer. In a way August is like the place between sleep and awake. It&amp;rsquo;s like the gentle transitionin from state to another. Soon it&amp;rsquo;s fall. It rains, gets dark and cold. It is just miserable before the winter comes. The hard cold transitioning. I do like August. The final lingering kiss of summer. 
-</summary>
-  </entry>
-  <entry>
-    <title>Comic relief</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/comic-relief/"/>
-    <id>http://glenf.github.io/thoughts/comic-relief/</id>
-    <published>2015-08-22T03:00:00+03:00</published>
-    <updated>2015-08-30T21:32:14+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">Well that went as planned. My friday I mean. I left work for a weekend and thought I&amp;rsquo;d fix the carburettor of my lawnmower. I got home and didn&amp;rsquo;t see my kids around. My wife told that we&amp;rsquo;re taking the night off. And we&amp;rsquo;re going to see some stand-up. She&amp;rsquo;d bought the tickets about a month ago. My jaw dropped. She&amp;rsquo;d been keeping that as a secret! For a month! So my work week ended with a lot of laughter. I had a wonderful evening in a good company. I did manage to fix the carb tho.
 </summary>
   </entry>
 </feed>
