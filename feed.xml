@@ -5,10 +5,22 @@
   <id>http://glenf.github.io</id>
   <link href="http://glenf.github.io"/>
   <link href="http://glenf.github.io/feed.xml" rel="self"/>
-  <updated>2015-09-13T03:00:00+03:00</updated>
+  <updated>2015-09-18T03:00:00+03:00</updated>
   <author>
     <name>Tommi Pääkkö</name>
   </author>
+  <entry>
+    <title>Iida</title>
+    <link rel="alternate" href="http://glenf.github.io/thoughts/iida/"/>
+    <id>http://glenf.github.io/thoughts/iida/</id>
+    <published>2015-09-18T03:00:00+03:00</published>
+    <updated>2015-09-18T20:54:18+03:00</updated>
+    <author>
+      <name>Tommi Pääkkö</name>
+    </author>
+    <summary type="html">Our dog Iida has passed away today. What an end to a week. I&amp;rsquo;ve known the date for a while now but it doesn&amp;rsquo;t make things any easier. Last few days have been emotionally hard. I&amp;rsquo;ve had to act as normal because of our kids. It&amp;rsquo;s easier to explain things after everythings done. And today I did, right after I got home from work. Our three year old didn&amp;rsquo;t quite get what&amp;rsquo;s happened but first grader did. So it was crying for a while and then some questions. I&amp;rsquo;m sure there&amp;rsquo;ll be more later. But for our dog Iida, it&amp;rsquo;s better this way.
+</summary>
+  </entry>
   <entry>
     <title>Mr. Robot</title>
     <link rel="alternate" href="http://glenf.github.io/thoughts/mr-robot/"/>
@@ -67,17 +79,5 @@
       <name>Tommi Pääkkö</name>
     </author>
     <summary type="html">Our oldest dog Iida is 13 years old. She is old for a labrador retriever. And her body is giving up on her. She still has her mind sharp as ever. But her joints are broken. She has been eating pain killers for a couple of years now. When she started eating them she got her spirit and joy back. But recently we’ve started to think if it’s her time to go. The pain killers arenät fixing her. Just easing the pain. So every pain killer I give to her feels like a small goodbye. And it’s hard to say goodbye to someone who’s been in your life for a long time. Even if she is a dog. And especially when you</summary>
-  </entry>
-  <entry>
-    <title>Finishing projects</title>
-    <link rel="alternate" href="http://glenf.github.io/thoughts/finishing-projects/"/>
-    <id>http://glenf.github.io/thoughts/finishing-projects/</id>
-    <published>2015-08-29T03:00:00+03:00</published>
-    <updated>2015-08-30T21:32:56+03:00</updated>
-    <author>
-      <name>Tommi Pääkkö</name>
-    </author>
-    <summary type="html">I have hard time to finish my projects. Not the work kind but the hobby and side project kind. I usually start them with enthusiasm but if the project takes a long time or gets lots of interruptions I tend to not finish it. Which is a bad thing. And I&amp;rsquo;ve started to pay attention to it. Which has made me feel guilty. And it doesn&amp;rsquo;t really help me finish the project. Recently I&amp;rsquo;ve started to finish my projects. I&amp;rsquo;t might have something to do with the fact that I don&amp;rsquo;t want to feel guilty or bad anymore.  
-</summary>
   </entry>
 </feed>
